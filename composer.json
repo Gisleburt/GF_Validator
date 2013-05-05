@@ -1,0 +1,25 @@
+{
+    "name": "gisleburt/validator",
+    "type": "library",
+    "description": "Gisleburt Framework: Validator module",
+    "keywords": ["validatora"],
+    "homepage": "http://github.com/Gisleburt",
+    "license": "MIT",
+	"minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Daniel Masn",
+            "email": "daniel@danielmason.com",
+            "homepage": "http://danielmason.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gisleburt": "src/"
+        }
+    }
+}
