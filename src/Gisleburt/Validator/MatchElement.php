@@ -2,7 +2,6 @@
 
 	namespace Gisleburt\Validator;
 
-	use Gisleburt\Form\Element;
 
 	/**
 	 * Tests against a set of given characters

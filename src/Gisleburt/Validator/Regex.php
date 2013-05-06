@@ -12,7 +12,7 @@
 
 		protected $regex;
 
-		const ERROR_INVALID = 'Doesn\'t appear to be correct';
+		const ERROR_INVALID = "Doesn't appear to be correct";
 
 		public function __construct(array $config = array()) {
 			parent::__construct($config);
